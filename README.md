@@ -1,30 +1,30 @@
-# 👤 Face Detection
+# 👨‍💻 Face Detection
 
-This Python based application leverages **OpenCV** and **CVZone** to detect human faces in real time using your webcam.
+This Python based application leverages **OpenCV** and **CVZone** to detect human faces in real time using your webcam.🎥
 
 ![Face Detection]()
 
 ---
 
-## 🛠️ Technologies Used
-
-* 🐍 **Python** – Scripting language
-* 📸 **OpenCV** – For image processing and real-time video capture
-* 🔍 **CVZone** – Easy wrapper for common computer vision tasks
-
----
-
 ## 📦 Features
 
-✅ Real-time face detection via webcam
-✅ Bounding box around detected faces
-✅ Frame rate optimization
-✅ Lightweight and responsive
-✅ Beginner-friendly codebase
+| ✨ Feature                         | 📝 Description                                  |
+| --------------------------------- | ----------------------------------------------- |
+| 🎥 **Real time Face Detection**   | Detects faces instantly using your webcam       |
+| 🟥 **Bounding Box**               | Draws a rectangle around each detected face     |
+| ⚡ **Frame Rate Optimization**     | Ensures smooth performance with FPS tracking    |
+| 🪶 **Lightweight & Responsive**   | Uses minimal resources for fast response time   |
+| 💻 **Beginner Friendly Codebase** | Simple, readable, and easy to customize         |
 
 ---
 
-Great! Here's the updated **README.md** section that uses a `requirements.txt` file instead of direct `pip` installs:
+## 🛠️ Technologies Used
+
+| 🔧 Technology | 📖 Description                                                 |
+| ------------- | -------------------------------------------------------------- |
+| 🐍 **Python** | High level programming language used for scripting             |
+| 📸 **OpenCV** | Library for image processing and real time video capture       |
+| 🔍 **CVZone** | Simplifies computer vision tasks with prebuilt functions       |
 
 ---
 
