@@ -33,8 +33,8 @@ This Python based application leverages **OpenCV** and **CVZone** to detect huma
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/face-detection.git
-cd face-detection
+git clone https://github.com/KrishBharadwaj5678/FaceDetection.git
+cd FaceDetection
 ```
 
 ### 2. Install Dependencies
@@ -53,4 +53,37 @@ python main.py
 
 ## 🙌 Contributing
 
-Feel free to fork the repo and submit a pull request.
+We welcome contributions from the community! 🚀
+
+### 🔧 How to Contribute
+
+1. 🍴 **Fork** the repository
+
+2. 📥 **Clone** your forked repository
+
+   ```bash
+   git clone https://github.com/KrishBharadwaj5678/FaceDetection.git
+   ```
+
+3. 💻 **Create a new branch** for your feature or fix
+
+   ```bash
+   git checkout -b my-feature-branch
+   ```
+
+4. ✍️ **Make your changes**
+
+5. ✅ **Commit your changes**
+
+   ```bash
+   git commit -m "Add: [your message here]"
+   ```
+
+6. 📤 **Push to your fork**
+
+   ```bash
+   git push origin my-feature-branch
+   ```
+
+7. 📬 **Open a Pull Request**:
+   Go to the original repo and click **New Pull Request**.
